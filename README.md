@@ -8,6 +8,8 @@ Firebase push notification \
 Alarm manager \
 Force update 
 ## مراحل ثبت نام و ورود کاربر
+کاربر در انتها به دررگاه پرداخت هدایت میشود. 
+\
 👇👇👇 \
 
 ![login](https://user-images.githubusercontent.com/85625209/230611207-b965da1a-fe7f-4eca-aaeb-bbc67ee45919.gif)
