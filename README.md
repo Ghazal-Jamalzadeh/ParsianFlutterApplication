@@ -3,7 +3,10 @@ Flutter \
 BloC Architecture \
 Provider \
 Dio \
-Hive 
+Hive \
+Firebase push notiication \
+Alarm manager \
+Force update 
 
 ## User Interface: 
 Loading.... \
