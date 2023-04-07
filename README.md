@@ -1,2 +1,14 @@
-# MyProjcts
-short description, screen shots, gifs and so on  
+# پروژه فلاتر املاک پارسیان به سفارش مشتری
+Flutter \
+BloC Architecture \
+Provider \
+Dio \
+Hive 
+
+## User Interface: 
+Loading.... \
+Please wait... \
+👇👇👇 \
+\
+\
+
