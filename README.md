@@ -16,11 +16,12 @@ Force update
 <img src="https://github.com/user-attachments/assets/138aeb54-8114-4e78-83f8-2d92da6b6b64" alt="photo_17_2025-03-14_17-25-28" width="300"/>
 <img src="https://github.com/user-attachments/assets/527db8c1-57f1-4bc4-810f-9e97e0bf888d" alt="photo_20_2025-03-14_17-25-28" width="300"/>
 <img src="https://github.com/user-attachments/assets/1d06029a-c10c-4674-8282-a116b64817f8" alt="photo_24_2025-03-14_17-25-28" width="300"/>
-<img src="https://github.com/user-attachments/assets/d7679eca-803f-4fe5-8b30-adeaaab66313" alt="photo_11_2025-03-14_17-24-07" width="300"/>
 <img src="https://github.com/user-attachments/assets/bca5eb96-7886-4e77-90e8-fb7f9336181f" alt="photo_7_2025-03-14_17-00-40" width="300"/>
 <img src="https://github.com/user-attachments/assets/b09ca2c8-e7de-4a46-8a7c-fe394cde565e" alt="photo_2_2025-03-14_17-00-40" width="300"/>
 <img src="https://github.com/user-attachments/assets/5eb65113-88c7-459b-af96-899c4f547315" alt="photo_2_2025-03-14_17-00-40" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/0ecf9984-001d-41f2-8d50-f9fc6c2d6764" alt="photo_8_2025-03-14_17-00-40" width="300"/>
+<img src="https://github.com/user-attachments/assets/f449019e-533d-45cc-a0d3-0b3bdf3d85af" alt="photo_3_2025-03-14_17-00-40" width="300"/>
+<img src="https://github.com/user-attachments/assets/a7e84b08-abd1-4c32-9349-3b1e4eb1038a" alt="photo_12_2025-03-14_17-00-40" width="300"/>
 
 ## مراحل ثبت نام و ورود کاربر
 کاربر در انتها به درگاه پرداخت هدایت میشود. 
